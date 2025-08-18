@@ -1,19 +1,99 @@
-# 💫 About Me:
-👋 Hi, I’m Pouriya — a backend engineer in training at 42 Berlin with a background in filmmaking.<br>💻 I work with C, C++, Python, and Linux, focusing on system programming and backend development.<br>🛠️ Skilled in Docker, Nginx, MariaDB, and containerized infrastructure.<br>📚 Completed advanced projects at 42, including Minishell, miniRT, Philosophers, Inception, and C++ Modules.<br>🌐 Currently building Webserv, a custom HTTP server in C++.<br>🎥 Formerly studied Radio, Television & Film, bringing creativity and storytelling into my engineering approach.<br>🌍 Based in Berlin | Fluent in English & Persian | Intermediate German.<br><br>🚀 Always eager to tackle complex engineering challenges and collaborate on open-source projects.
+<p align="center">
+  <a href="https://github.com/Pouriya-Pourbahrami">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&lines=Pouriya+Pourbahrami" alt="Pouriya Pourbahrami" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;42%20Berlin&font=Fira%20Code&center=true&width=440&height=45&color=3B82F6&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pouriya-pourbahrami/" target="_blank">
+    <img width="38px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/50/3B82F6/linkedin.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:pouriya.pourbahrami@gmail.com" target="_blank">
+    <img width="38px" alt="Email" title="Email" src="https://img.icons8.com/ios-filled/50/3B82F6/gmail.png"/>
+  </a>
+</p>
+
+<h2 align="center">Whoami</h2>
+<hr>
+
+<p align="center">
+✨ Curious mind turning ideas into code<br>
+🎓 Backend engineer in training at <a href="https://42berlin.de/de/" target="_blank"><img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16"></a><br>
+⚡ Currently building <b>Webserv</b>, a custom HTTP server<br>
+🎥 From film sets to system calls, creativity just found a new medium<br>
+📍 Living and coding in Berlin
+</p>
+
+<h2 align="center">Tools & Skills</h2>
+<hr>
+
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cplusplus&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pouriya-pourbahrami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouriya.pourbahrami@gmail.com) 
+<h2 align="center">Core Projects</h2>
+<hr>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pourist&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/pourist/Inception">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=Inception&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Inception">
+  </a>
+  <a href="https://github.com/pourist/42_miniRT">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=42_miniRT&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="miniRT">
+  </a>
+  <a href="https://github.com/pourist/cpp-modules-42">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=cpp-modules-42&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP Modules">
+  </a>
+  <a href="https://github.com/pourist/libft_42">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=libft_42&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Libft">
+  </a>
+  <a href="https://github.com/pourist/GNL">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=GNL&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Get Next Line">
+  </a>
+  <a href="https://github.com/pourist/printf">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=printf&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Printf">
+  </a>
+  <a href="https://github.com/pourist/Pipex">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=Pipex&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pipex">
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">Foundations</h2>
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=pourist&icon=5&color=7)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/pourist/API-and-Web-Services-Fundamentals">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=API-and-Web-Services-Fundamentals&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="API and Web Services Fundamentals">
+  </a>
+  <a href="https://github.com/pourist/backend-networking-fundamentals">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=backend-networking-fundamentals&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Backend Networking Fundamentals">
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</p>
+
+
+
