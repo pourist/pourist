@@ -59,6 +59,9 @@
   <a href="https://github.com/pourist/cpp-modules-42">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=cpp-modules-42&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP Modules">
   </a>
+    <a href="https://github.com/pourist/42_miniRT">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=42_miniRT&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="miniRT">
+  </a>
     <a href="https://github.com/pourist/fdf">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=fdf&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false" alt="fdf">
   </a>
