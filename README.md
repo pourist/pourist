@@ -24,12 +24,16 @@
 <hr>
 
 <p align="center">
-✨ Curious mind turning ideas into code<br>
-🎓 Backend engineer in training at <a href="https://42berlin.de/de/" target="_blank"><img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16"></a><br>
-⚡ Currently building <b>Webserv</b>, a custom HTTP server<br>
-🎥 From film sets to system calls, creativity just found a new medium<br>
-📍 Living and coding in Berlin
+Software Developer · 42 Berlin Graduate<br>
+Completed the core curriculum at <a href="https://42berlin.de/de/" target="_blank">
+<img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16">
+</a><br>
+Currently specializing in Software Development at 42<br>
+Building low-level and backend systems<br>
+Pursuing the <b>IBM Java Developer Professional Certificate</b><br>
+📍Based in Berlin
 </p>
+
 
 <h2 align="center">Tools & Skills</h2>
 <hr>
@@ -66,7 +70,9 @@
   <a href="https://github.com/pourist/webserver">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=webserver&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false&v=2" alt="Webserv">
   </a>
-
+  <a href="https://github.com/pourist/pong-game">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=pong-game&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false&v=2" alt="Pong Game">
+  </a>
   <a href="https://github.com/pourist/cpp-modules-42">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pourist&repo=cpp-modules-42&theme=react&bg_color=1F222E&title_color=3B82F6&hide_border=true&icon_color=F8D866&show_icons=false&v=2" alt="CPP Modules">
   </a>
