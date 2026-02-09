@@ -41,7 +41,6 @@ Berlin, Germany
   <img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cplusplus&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
