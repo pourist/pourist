@@ -29,7 +29,7 @@ Core curriculum graduate and current specialization track at
 <a href="https://42berlin.de/de/" target="_blank">
 <img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16">
 </a><br>
-Currently expanding into Java backend development through the IBM Java Developer Professional Certificate.<br>
+Currently working as a backend engineering intern, contributing to data pipelines and intelligent backend systems.<br>
 Berlin, Germany
 </p>
 
